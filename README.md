@@ -56,6 +56,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Making a Progressive Web App
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![FireShot Capture 001 - React App - localhost](https://user-images.githubusercontent.com/46624621/163031194-f54784e9-ef22-4d7d-9178-22e1d499f4ae.png)
 
 ### Advanced Configuration
 
